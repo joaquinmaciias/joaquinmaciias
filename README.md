@@ -2,6 +2,7 @@
 <p align="center">
   🎓 M.Sc. Advanced AI @ ICAI &nbsp;|&nbsp; 🧠 Math Engineering & AI Graduate &nbsp;|&nbsp; 🤖 AI Research Enthusiast
 </p>
+
 I'm a Mathematical Engineering and AI graduate currently pursuing a Master's in Advanced Artificial Intelligence at ICAI (Comillas). I'm passionate about pushing the boundaries of deep learning, from generative models to geometric AI and uncertainty quantification.
 
 - 🔭 I'm currently working on Medical AI, LLM reasoning, and uncertainty-aware deep learning
@@ -19,6 +20,7 @@ I'm a Mathematical Engineering and AI graduate currently pursuing a Master's in 
 - 🦽 Autonomous Wheelchair – Integrated ML-based perception modules for indoor navigation in a multidisciplinary engineering team.
 
 🛠️ My Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,docker,git,github,vscode,linux,latex,mongodb,mysql,js,matlab" />
@@ -30,6 +32,7 @@ I'm a Mathematical Engineering and AI graduate currently pursuing a Master's in 
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 </p>
+
 📫 Where to find me
 ## Where to find me
 
