@@ -4,19 +4,19 @@
 </p>
 I'm a Mathematical Engineering and AI graduate currently pursuing a Master's in Advanced Artificial Intelligence at ICAI (Comillas). I'm passionate about pushing the boundaries of deep learning, from generative models to geometric AI and uncertainty quantification.
 
-🔭 I'm currently working on Medical AI, LLM reasoning, and uncertainty-aware deep learning
-🌱 I'm diving deep into Geometric AI, Probabilistic AI and AI Agents
-👯 I'm looking to collaborate on AI Research, open source ML projects, and applied AI
-🏥 My thesis focused on deep learning for kidney tumor detection in CT scans (in collaboration with SYCAI Medical)
-💬 Ask me about PyTorch, Reinforcement Learning, Generative Models, or FinTech AI
-📍 Based in Madrid, Spain
+- 🔭 I'm currently working on Medical AI, LLM reasoning, and uncertainty-aware deep learning
+- 🌱 I'm diving deep into Geometric AI, Probabilistic AI and AI Agents
+- 👯 I'm looking to collaborate on AI Research, open source ML projects, and applied AI
+- 🏥 My thesis focused on deep learning for kidney tumor detection in CT scans (in collaboration with SYCAI Medical)
+- 💬 Ask me about PyTorch, Reinforcement Learning, Generative Models, or FinTech AI
+- 📍 Based in Madrid, Spain
 
 🚀 Recent Projects
 
-🧮 Algebraic Reasoning Distiller – Multi-agent system (symbolic prover + RAG + LLM distiller) for math reasoning. Built with Qwen2.5-7B + LoRA, SFT → GRPO pipeline.
-🌍 R2-Dreamer – Re-implementation of R2-Dreamer (ICLR 2026) for visual continuous control using World Models (RSSM, Block-GRU, Actor-Critic) from raw pixels.
-🧠 Uncertainty-Aware Brain Tumor Segmentation – Benchmarked 8 uncertainty quantification methods (MC Dropout, Deep Ensembles, Laplace, etc.) on BraTS 2018.
-🦽 Autonomous Wheelchair – Integrated ML-based perception modules for indoor navigation in a multidisciplinary engineering team.
+- 🧮 Algebraic Reasoning Distiller – Multi-agent system (symbolic prover + RAG + LLM distiller) for math reasoning. Built with Qwen2.5-7B + LoRA, SFT → GRPO pipeline.
+- 🌍 R2-Dreamer – Re-implementation of R2-Dreamer (ICLR 2026) for visual continuous control using World Models (RSSM, Block-GRU, Actor-Critic) from raw pixels.
+- 🧠 Uncertainty-Aware Brain Tumor Segmentation – Benchmarked 8 uncertainty quantification methods (MC Dropout, Deep Ensembles, Laplace, etc.) on BraTS 2018.
+- 🦽 Autonomous Wheelchair – Integrated ML-based perception modules for indoor navigation in a multidisciplinary engineering team.
 
 🛠️ My Skills
 <p align="center">
